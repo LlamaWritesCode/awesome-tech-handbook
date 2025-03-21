@@ -1,6 +1,9 @@
-# <ins>Awesome Tech Handbook</ins>
+# **Awesome Tech Handbook** 🚀
 
-## FRONTEND
+## <ins>FRONTEND</ins>	
+  
+
+
 ## BACKEND
 ## DATABASE
 ## CLOUD
@@ -15,8 +18,8 @@
 ## DESIGN
 ## ACRONYMS
 ## API
-    - REST
-    - Query
+  - REST
+  - Query
 ## CERTS
 ## INTERVIEWS
 ## COURSES
