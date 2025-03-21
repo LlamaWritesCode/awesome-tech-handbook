@@ -1,4 +1,4 @@
-# **Awesome Tech Handbook** ✨ 🚀
+# **Awesome Tech Handbook** ✨ 🚀 - UNDER CONSTRUCTION 🙂
 
 ## <ins>FRONTEND</ins>	
 
